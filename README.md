@@ -1,6 +1,7 @@
 # BombApps
 Some android apps i made, which i find useful (for me)
-To get my apps after nuking I just git clone this, so this is like a cloud for me
+To get my apps after nuking I just git clone this, so this is like a cloud for me.
+They are more advanced than they look, and being updated w new features.
 
 Included:
 
