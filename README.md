@@ -11,4 +11,6 @@ Decimal Battery: for getting batt level with one decimal point idk
 
 Battery Level Changer: do u need an explanation?
 
-Complex Power: for calculating the result of i power something [X=i^Y]
+Complex Power: some app to calculate i^Y=X for me
+
+CameraFeature Tweaks: for tweaking camera-feature.xml in rooted samsung devices
