@@ -7,10 +7,12 @@ Included:
 
 Display Resolution Changer: for changing your display resolution, has a lot of features
 
-Decimal Battery: for getting batt level with one decimal point idk
+DecimalBatteryBeta: for getting batt level with one decimal point, clean and does not need root at all!
 
-Battery Level Changer: do u need an explanation?
+Battery Level Changer: do u need an explanation? needs root
 
 Complex Power: some app to calculate i^Y=X for me
 
-CameraFeature Tweaks: for tweaking camera-feature.xml in rooted samsung devices
+CameraFeature Tweaks: for tweaking camera-feature.xml in rooted samsung devices, yes rooted and not erofs or enforcing please.
+
+DecimalBatteryDeprecated: Testing app, it is deprecated and uses root.
