@@ -7,7 +7,7 @@ Included:
 
 ToDo: An app that makes/delets checks, yes that's all
 
-TicTacToe (Broken): A so-very impossible TicTacToe ai that nobody on earth can beat.
+TicTacToe: A so-very impossible TicTacToe ai that nobody on earth can beat.
 
 Display Resolution Changer: for changing your display resolution, has a lot of features
 
