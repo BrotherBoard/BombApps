@@ -17,7 +17,7 @@ Battery Level Changer: do u need an explanation? needs root
 
 Complex Power: some app to calculate i^Y=X for me
 
-CameraFeature Tweaks: for tweaking camera-feature.xml in rooted samsung devices, yes rooted and not erofs or enforcing please.
+CameraFeature Tweaks: for tweaking camera-feature.xml in rooted samsung devices, yes rooted and not erofs please.
 
 DecimalBatteryDeprecated: Testing app, it is deprecated and uses root.
 
