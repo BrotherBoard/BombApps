@@ -24,3 +24,5 @@ DecimalBatteryDeprecated: Testing app, it is deprecated and uses root.
 InternalKeyboard: InApp keyboard using buttons in case of soft keyboard lacking.
 
 DialogMaker: Creates and shows and gives the code of AlertDialogs
+
+FingerPrint: Test app, detect single and double presses of fingerprint sensor.
