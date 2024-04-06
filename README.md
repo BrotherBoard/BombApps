@@ -5,6 +5,8 @@ They are more advanced than they look, and being updated w new features.
 
 Included:
 
+PI: An app that generates pi using a simple equation over time
+
 ToDo: An app that makes/delets checks, yes that's all
 
 TicTacToe: A so-very impossible TicTacToe ai that nobody on earth can beat.
