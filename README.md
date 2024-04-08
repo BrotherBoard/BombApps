@@ -5,6 +5,8 @@ They are more advanced than they look, and being updated w new features.
 
 Included:
 
+String2Picture: A from/to conversion between string and pictures, uses a string to represent a 10x10 board withxa color code to each character.
+
 PI: An app that generates pi using a simple equation over time
 
 ToDo: An app that makes/delets checks, yes that's all
@@ -28,3 +30,5 @@ InternalKeyboard: InApp keyboard using buttons in case of soft keyboard lacking.
 DialogMaker: Creates and shows and gives the code of AlertDialogs
 
 FingerPrint: Test app, detect single and double presses of fingerprint sensor.
+
+AlongsideTMP: A nice template which i make my applications on
